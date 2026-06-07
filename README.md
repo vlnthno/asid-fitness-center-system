@@ -11,6 +11,12 @@ A simple console-based Gym Management System written in C++ to manage gym member
 
 ---
 
+## Getting Started
+
+To run this project locally, ensure you have a C++ compiler installed (such as GCC / G++ or Clang) or an IDE like VS Code, Code::Blocks, or CLion.
+
+---
+
 ## System Preview
 
 ```text
